@@ -1,0 +1,1 @@
+This repository contains the data and scripts used to conduct the genomic and phenotypic analyses for this study. The project is organized to clearly separate input data, analysis code, and derived outputs, ensuring transparency, reproducibility, and ease of reuse.
